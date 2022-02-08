@@ -9,17 +9,65 @@ img {
     width: 100%;
     text-align: justify;
   }
+  .talk h2{
+    text-align: center; 
+  }
+  .jade{
+    margin-bottom: 0px;
+  }
   h1{
     text-align: center;
-    padding: 30px 50px 25px 50px;
+    padding: 20px 50px 5px 50px;
   }
- .over{
-  background-color: rgb(236, 236, 231);
+ 
 
-  
-  
-  }
   .overview{
-    padding: 30px 50px 35px 50px;
+    padding: 20px 50px 35px 50px;
   }
   
+
+.info,.tap{
+  text-align: justify;
+}
+h2,h4,h3{
+  text-align: center;
+}
+.cent{
+  text-align: center;
+}
+p,ul li{
+  font-size:17px;
+}
+.extra{
+  font-size: 17px;
+}
+.picmar1{
+  margin-top: 55px;
+}
+.picmar2{
+  margin-top: 100px;
+}
+.picmar11{
+  margin-top: 35px;
+}
+.picmar22{
+  margin-top: 50px;
+}
+.btspace{
+  margin-bottom: 60px;
+}
+
+cite{
+  font-size: 10px;
+
+
+}
+.people{
+  height: 300px;
+  max-width: 100%;
+}
+
+
+
+
+

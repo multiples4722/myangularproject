@@ -1,0 +1,27 @@
+.jumbo{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.people{
+    height: 300px;
+    max-width: 100%;
+}
+.head{
+    text-align: center;
+    margin-top: 35px;
+}
+p,ul li{
+    font-size:17px;
+}
+a{
+    font-size: 21px;
+}
+ul li{
+    text-align: justify;
+}
+.cent{
+    display:block;
+    margin:auto;
+}

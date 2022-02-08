@@ -1,0 +1,21 @@
+.footer{
+    background:linear-gradient(360deg,#1065AF 92%,#FDB827 92%);
+}
+
+img{
+    max-width: 100%;
+   height: 50px;
+   object-fit: contain;
+}
+
+.align{
+  
+   width:100px;
+   height:60px;
+}
+.specific{
+  
+    width:100px;
+    height:60px;
+ }
+ 

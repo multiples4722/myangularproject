@@ -1,0 +1,18 @@
+.people{
+    height: 100px;
+    max-width: 100%;
+}
+.head{
+    text-align: center;
+    margin-top: 35px;
+}
+ul li{
+    font-size:17px;
+    text-align: justify;
+}
+.extra{
+    font-size: 17px;
+}
+.tap{
+    text-align: justify;
+  }

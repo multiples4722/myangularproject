@@ -1,0 +1,81 @@
+
+
+.firsttc2{
+    height: 300px;
+    max-width: 100%;  
+}
+
+p,ul li{
+    font-size:17px;
+}
+
+.people{
+    height: 300px;
+    max-width: 100%;
+}
+.head{
+    text-align: center;
+    margin-top: 35px;
+}
+.special{
+    height: 100px;
+    max-width: 80%;
+}
+.heading{
+    color: red;
+}
+.arrow1{
+margin-top: 60px;
+color:#4285f4 ;
+}
+.arrow2{
+    margin-left: 150px;
+    color:#4285f4 ;
+}
+.example1{
+    border: 3px solid #4285f4;
+    padding: 10px;
+    position: absolute;
+    top: 220px;
+    left: 20px;
+}
+
+.fon{
+    font-size: 20px;
+}
+
+.space{
+    position: relative;
+  top: 0;
+  left: 0;
+}
+.pos{
+    position: relative;
+  top: 0;
+  left: 0;
+}
+.arrow3{
+    position: absolute;
+    top: 175px;
+    left: 170px;
+    color:#4285f4 ;
+}
+.example2{
+    border: 3px solid #4285f4;
+    padding: 25px;
+    font-size:10px;
+}
+p,ul li{
+    text-align: justify;
+}
+.headi{
+    text-align: center;
+}
+.jumbo{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.firsttc3{
+    height: 200px;
+    max-width: 100%;  
+}

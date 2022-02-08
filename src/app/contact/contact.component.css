@@ -1,0 +1,14 @@
+.people{
+    height: 300px;
+    max-width: 100%;
+}
+.head{
+    text-align: center;
+    margin-top: 35px;
+}
+a,p,ul li{
+    font-size:17px;
+}
+ul li{
+    text-align: justify;
+}

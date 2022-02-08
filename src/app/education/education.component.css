@@ -1,0 +1,63 @@
+.divborder{
+    
+    outline-style: solid;
+   
+    background-color: lightcyan;
+    padding:0px;
+   
+}
+.st{
+    outline-style: solid; 
+    background-color: burlywood;  
+}
+.container{
+    padding:30px;
+}
+h4{
+   outline-style: solid; 
+   background-color: burlywood;
+   padding:5px;
+}
+p{
+    padding: 5px;
+}
+.head{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.headi{
+   
+    margin-top: 35px;
+    margin-left: 170px;
+}
+.jumbo{
+    margin-left: 170px;
+    margin-right: 170px;
+    background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg);
+}
+.change{
+    font-size: 17px;
+}
+.people{
+    height: 250px;
+    max-width: 100%;}
+
+    .peoples{
+        height: 200px;
+        max-width: 100%;}
+
+        .outreach{
+            height: 180px;
+            max-width: 100%;
+        }
+
+        .stor{
+            height: 300px;
+            max-width: 100%;
+        }
+
+        .tcmid{
+            display: block;
+            margin:auto;
+        }
